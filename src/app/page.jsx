@@ -19,11 +19,11 @@ const Homepage = () => {
         <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center">
           {/* TITLE */}
           <h1 className="text-4xl md:text-6xl font-bold">
-          Hi, I'm Client
+          Hi, I&#39;m Client
 A Front-End Web Developer          </h1>
           {/* DESC */}
           <p className="md:text-xl">
-          As a frontend developer building a dynamic web application, you're responsible for creating the user interface and user experience of the application.
+          As a frontend developer building a dynamic web application, you&#39;re responsible for creating the user interface and user experience of the application.
           </p>
           {/* BUTTONS */}
           <div className="w-full flex gap-4">

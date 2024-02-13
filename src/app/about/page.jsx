@@ -1,7 +1,6 @@
 "use client";
 import Brain from "../components/Brain";
 import { motion, useInView, useScroll } from "framer-motion";
-import image from "next/image";
 import { useRef } from "react";
 
 const AboutPage = () => {
